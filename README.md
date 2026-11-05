@@ -1,5 +1,5 @@
 # Paweł Piątkowski
-## Hi there 👋
+
 I also contributed under my earlier account, [@piatpawel](https://github.com/piatpawel).
 
 Earlier contributions to Zigbee2MQTT:
