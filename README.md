@@ -1,4 +1,11 @@
+# Paweł Piątkowski
 ## Hi there 👋
+I also contributed under my earlier account, [@piatpawel](https://github.com/piatpawel).
+
+Earlier contributions to Zigbee2MQTT:
+- [TS0601_GTZ10 thermostat support](https://github.com/Koenkk/zigbee-herdsman-converters/pull/8235)
+- [TS0601_GTZ10 device image](https://github.com/Koenkk/zigbee2mqtt.io/pull/3171)
+
 
 <!--
 **ppiatkowsk/ppiatkowsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
